@@ -35,8 +35,3 @@
 2. Install the APK on your TV device (via USB or direct download).
 3. Launch the app and press the **Connect** button.
 
-### Option 2: Build from Source
-```bash
-git clone https://github.com/your-username/WoodicConnectTv.git
-cd WoodicConnectTv
-./gradlew assembleDebug
